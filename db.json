@@ -1,9 +1,28 @@
 {
-   "cards": [
-      {
-        "type": "visa",
-        "digits": 16,
-        "cvv_length": 3
-      }
-   ]
+	"cards": [{
+			"type": "visa",
+			"digits": 16,
+			"cvv_length": 3
+		},
+		{
+			"type": "mc",
+			"digits": 16,
+			"cvv_length": 3
+		},
+		{
+			"type": "amex",
+			"digits": 15,
+			"cvv_length": 4
+		},
+		{
+			"type": "discover",
+			"digits": 16,
+			"cvv_length": 3
+		},
+		{
+			"type": "jcb",
+			"digits": 16,
+			"cvv_length": 3
+		}
+	]
 }
