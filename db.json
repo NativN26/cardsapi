@@ -1,8 +1,9 @@
-
-"cards": {
-   "card": {
-     "type": "visa",
-     "digits": 16,
-     "cvvlength": 3
+{
+   "cards": {
+      "card": {
+        "type": "visa",
+        "digits": 16,
+        "cvvlength": 3
+      }
    }
 }
