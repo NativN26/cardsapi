@@ -3,7 +3,7 @@
       {
         "type": "visa",
         "digits": 16,
-        "cvvlength": 3
+        "cvv_length": 3
       }
    ]
 }
